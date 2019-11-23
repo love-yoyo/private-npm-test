@@ -1,2 +1,1 @@
-# private-npm-test
-test private npm
+# private npm module by King
