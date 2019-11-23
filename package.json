@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/love-yoyo/private-npm-test/issues"
   },
-  "homepage": "https://github.com/love-yoyo/private-npm-test#readme"
+  "homepage": "https://github.com/love-yoyo/private-npm-test#readme",
+  "devDependencies": {
+    "@king/module-c": "git://github.com/love-yoyo/private-npm-test.git#release/module-c/v1.0.1"
+  }
 }
