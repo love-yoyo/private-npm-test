@@ -1,0 +1,19 @@
+{
+  "name": "@king/test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/love-yoyo/private-npm-test.git"
+  },
+  "author": "King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/love-yoyo/private-npm-test/issues"
+  },
+  "homepage": "https://github.com/love-yoyo/private-npm-test#readme"
+}
