@@ -1,1 +1,1 @@
-# private npm module by King
+# module-a
