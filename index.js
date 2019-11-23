@@ -1,1 +1,1 @@
-module.exports = { name: "module-a" }
+module.exports = { name: "module-b" }
